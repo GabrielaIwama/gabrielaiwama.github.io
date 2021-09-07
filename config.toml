@@ -1,0 +1,23 @@
+baseURL = 'http://example.org/'
+copyright = "I don't know for now"
+languageCode = 'en-us'
+title = 'Gabriela'
+theme = 'barks'
+
+[params]
+    [params.social]
+        show_social = true
+        email = 'gabrielaiwama@gmail.com'
+
+    [params.colors]
+        background_color = "Snow"
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+
+[menu]
+    [[menu.main]]
+        name = "blog"
+        url = "/blog"
+        weight = 1
