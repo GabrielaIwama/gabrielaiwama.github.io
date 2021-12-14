@@ -6,6 +6,7 @@ theme = 'barks'
 
 [params]
     [params.social]
+        show_social = true
         email = 'gabrielaiwama@gmail.com'
         twitter = 'gabrielaiwama'
         github = 'gabrielaiwama'
