@@ -1,5 +1,5 @@
 baseURL = '/'
-copyright = "I don't know for now"
+copyright = "Made by Gabriela Iwama with <a href='https://github.com/timothygebhard/barks'>barks</a>."
 languageCode = 'en-us'
 title = 'Gabriela'
 theme = 'barks'
