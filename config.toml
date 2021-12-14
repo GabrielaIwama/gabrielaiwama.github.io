@@ -5,7 +5,7 @@ title = 'Gabriela'
 theme = 'barks'
 
 [params]
-    [params.social.email]
+    [params.social]
         email = 'gabrielaiwama@gmail.com'
         twitter = 'gabrielaiwama'
         github = 'gabrielaiwama'
