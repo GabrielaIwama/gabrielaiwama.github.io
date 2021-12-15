@@ -22,7 +22,7 @@ theme = 'barks'
         weight = 3
     [params.social.twitter]
         name = "Twitter"
-        class = "fas fa-twitter-square"
+        class = "fab fa-twitter-square"
         url = "https://twitter.com/GabrielaIwama"
         weight = 3
     [params.social.orcid]
