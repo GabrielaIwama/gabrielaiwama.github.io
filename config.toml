@@ -1,7 +1,7 @@
 baseURL = '/'
 copyright = "Made by Gabriela Iwama with <a href='https://github.com/timothygebhard/barks'>barks</a>."
 languageCode = 'en-us'
-title = 'Gabriela'
+title = 'Gabriela Iwama'
 theme = 'barks'
 
 [params]
