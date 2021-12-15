@@ -47,5 +47,5 @@ theme = 'barks'
 [menu]
     [[menu.main]]
         name = "blog"
-        url = "/blog"
+        url = "/posts"
         weight = 1
