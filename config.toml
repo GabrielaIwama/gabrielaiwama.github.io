@@ -24,17 +24,17 @@ theme = 'barks'
         name = "Twitter"
         class = "fab fa-twitter-square"
         url = "https://twitter.com/GabrielaIwama"
-        weight = 3
+        weight = 4
     [params.social.orcid]
         name = "ORCID"
         class = "fab fa-orcid"
         url = "https://orcid.org/0000-0002-4043-1230"
-        weight = 3
+        weight = 5
     [params.social.linkedin]
         name = "Linkedin"
         class = "fab fa-linkedin"
         url = "https://www.linkedin.com/in/gabrielaiwama/"
-        weight = 3
+        weight = 6
 
 
     [params.colors]
