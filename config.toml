@@ -17,7 +17,7 @@ theme = 'barks'
         weight = 2
     [params.social.google_scholar]
         name = "Google Scholar"
-        class = "ai ai-google-scholar-square"
+        class = "fab fa-google"
         url = "https://scholar.google.com/citations?user=n6yTMLYAAAAJ"
         weight = 3
     [params.social.researchgate]
@@ -53,4 +53,8 @@ theme = 'barks'
     [[menu.main]]
         name = "blog"
         url = "/posts"
+        weight = 2
+    [[menu.main]]
+        name = "publications"
+        url = "/publications"
         weight = 1
