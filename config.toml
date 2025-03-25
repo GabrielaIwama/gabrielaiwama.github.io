@@ -8,7 +8,7 @@ theme = 'barks'
     [params.social.email]
         name = "E-Mail"
         class = "fas fa-envelope"
-        url = "mailto:gabriela.iwama@student.uni-tuebingen.de"
+        url = "mailto:gabriela.iwama@uni-tuebingen.de"
         weight = 1
     [params.social.github]
         name = "GitHub"
@@ -27,8 +27,8 @@ theme = 'barks'
         weight = 4
     [params.social.twitter]
         name = "Twitter"
-        class = "fab fa-twitter-square"
-        url = "https://twitter.com/GabrielaIwama"
+        class = "fab fa-bluesky"
+        url = "https://bsky.app/profile/gabrielaiwama.bsky.social"
         weight = 5
     [params.social.orcid]
         name = "ORCID"
