@@ -25,9 +25,9 @@ theme = 'barks'
         class = "fab fa-researchgate"
         url = "https://www.researchgate.net/profile/Gabriela-Iwama"
         weight = 4
-    [params.social.twitter]
-        name = "Twitter"
-        class = "fab fa-bluesky"
+    [params.social.bluesky]
+        name = "bluesky"
+        class = "fas fa-bluesky"
         url = "https://bsky.app/profile/gabrielaiwama.bsky.social"
         weight = 5
     [params.social.orcid]
