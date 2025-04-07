@@ -27,7 +27,7 @@ theme = 'barks'
         weight = 4
     [params.social.bluesky]
         name = "bluesky"
-        class = "fas fa-bluesky"
+        class = "fab fa-bluesky"
         url = "https://bsky.app/profile/gabrielaiwama.bsky.social"
         weight = 5
     [params.social.orcid]
