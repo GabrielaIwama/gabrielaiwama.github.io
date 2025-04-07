@@ -5,7 +5,7 @@ title: ""
 
 ## Neuroscience
 
-**Iwama, G.**, Helfrich, R. (preprint). Sensory and action neural tuning explains how priors guide human visual decisions. 
+**Iwama, G.**, Helfrich, R. (preprint). [Sensory and action neural tuning explains how priors guide human visual decisions](https://www.biorxiv.org/content/10.1101/2025.03.26.645167v1.full). bioRxiv. 
 
 Weber, J., **Iwama, G.**, Solbakk, A., Blenkmann, A., Larsson, P., Ivanovic, J., Knight, R., Endestad, T., & Helfrich, R. (2023). [Subspace partitioning in the human prefrontal cortex resolves cognitive interference](https://www.pnas.org/doi/10.1073/pnas.2220523120). PNAS.
 
